@@ -1,5 +1,7 @@
 [![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&theme=nord)](https://github.com/oliver-zehentleitner)
 
+- 📫 How to reach me: https://www.lucit-development.co/contact.html
+
 <!--
 Here are some ideas to get you started:
 
