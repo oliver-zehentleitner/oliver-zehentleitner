@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+**[![Philippe's github stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&theme=vue)](https://github.com/oliver-zehentleitner)
+
+**
+
 <!--
 **oliver-zehentleitner/oliver-zehentleitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
