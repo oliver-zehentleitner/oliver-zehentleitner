@@ -1,4 +1,4 @@
-[![Oliver Zehentleitner github stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&theme=nord)](https://github.com/oliver-zehentleitner)
+[![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&theme=nord)](https://github.com/oliver-zehentleitner)
 
 <!--
 Here are some ideas to get you started:
