@@ -2,6 +2,8 @@
 
 - 📫 [How to reach me](https://www.lucit-development.co/contact.html)
 
+Are you an individual / company willing to [invest in open source](https://github.com/oliver-zehentleitner/unicorn-binance-suite#donate)? 
+
 <!--
 Here are some ideas to get you started:
 
