@@ -1,8 +1,8 @@
 [![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&theme=nord)](https://github.com/oliver-zehentleitner)
 
-- 📫 [How to reach me](https://www.lucit-development.co/contact.html)
-- ⚡ Are you an individual / company willing to [invest in open source](https://github.com/oliver-zehentleitner/unicorn-binance-suite#donate)? 
-- 🤔 [Commercial Support](https://github.com/oliver-zehentleitner/unicorn-binance-suite#commercial-support) - Need a Python developer or consulting?
+- 📫 [How to reach me](https://www.lucit.tech/contact.html)
+- ⚡ Are you an individual / company willing to [invest in open source](https://github.com/sponsors/oliver-zehentleitner)? 
+- 🤔 [Commercial Support](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#commercial-support) - Need a Python developer or consulting?
 
 <!--
 Here are some ideas to get you started:
