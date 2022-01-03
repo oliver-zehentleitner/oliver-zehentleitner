@@ -1,10 +1,10 @@
 [![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&theme=nord)](https://github.com/oliver-zehentleitner)
 
 - 📫 [How to reach me](https://www.lucit.tech/contact.html)
-- 🤔 [Commercial Support](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite#commercial-support) - Need a Python developer or consulting?
 
 <!--
 Here are some ideas to get you started:
+- 🤔 [Commercial Support]() - Need a Python developer or consulting?
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
