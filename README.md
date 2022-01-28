@@ -1,11 +1,14 @@
 [![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&theme=nord)](https://github.com/oliver-zehentleitner)
 
-- 📫 [How to reach me](https://www.lucit.tech/contact.html)
+- [Aboutme](https://about.me/oliver-zehentleitner)
+- [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
+- [Xing](https://www.xing.com/profile/Oliver_Zehentleitner)
+- [Get personalized trading tools](https://www.lucit.tech/trading-tools.html)
 
 <!--
 Here are some ideas to get you started:
 - 🤔 [Commercial Support]() - Need a Python developer or consulting?
-
+- 📫 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
