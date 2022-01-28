@@ -1,6 +1,6 @@
 [![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&theme=nord)](https://github.com/oliver-zehentleitner)
 
-- [Aboutme](https://about.me/oliver-zehentleitner)
+- [about.me](https://about.me/oliver-zehentleitner)
 - [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
 - [Xing](https://www.xing.com/profile/Oliver_Zehentleitner)
 - [Get personalized trading tools](https://www.lucit.tech/trading-tools.html)
