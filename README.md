@@ -4,6 +4,7 @@
 - [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
 - [Xing](https://www.xing.com/profile/Oliver_Zehentleitner)
 - [Get personalized trading tools](https://www.lucit.tech/trading-tools.html)
+- [Support my work on open source software](https://github.com/sponsors/oliver-zehentleitner)
 
 <!--
 Here are some ideas to get you started:
