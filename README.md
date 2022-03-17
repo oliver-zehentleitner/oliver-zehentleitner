@@ -9,7 +9,7 @@ With the release of the [UNICORN Binance Suite](https://www.lucit.tech/unicorn-b
 - [about.me](https://about.me/oliver-zehentleitner)
 - [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
 - [Xing](https://www.xing.com/profile/Oliver_Zehentleitner)
-- [Medium](https://medium.com/@oliverzehentleitner
+- [Medium](https://medium.com/@oliverzehentleitner)
 - [Get personalized trading tools](https://www.lucit.tech/trading-tools.html)
 - [Support my work on open source software](https://github.com/sponsors/oliver-zehentleitner)
 
