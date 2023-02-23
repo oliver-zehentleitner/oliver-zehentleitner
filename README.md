@@ -1,10 +1,10 @@
-Hello!
+Hi there!
 
-I am [Oliver Zehentleitner](https://about.me/oliver-zehentleitner) from Vienna and have been working with software development, databases, servers, networks, Linux, IT security and much more for over 25 years. 
+I'm [Oliver Zehentleitner](https://about.me/oliver-zehentleitner), an experienced software developer and IT specialist based in Vienna. With over 25 years of experience in fields such as databases, servers, networks, Linux, and IT security, I have developed a passion for blockchain technology and automated trading systems.
 
-As an IT all-rounder with specializations and a passion for blockchain technology and automated trading systems, I founded the company [LUCIT](https://github.com/LUCIT-Systems-and-Development) and support private and institutional traders in the field of [data science](https://www.lucit.tech/data-science.html) and in the development, operation and maintenance of [automated trading systems](https://www.lucit.tech/crypto-trading-bot.html) and [trading tools](https://www.lucit.tech/trading-tools.html).
+As the founder of [LUCIT](https://github.com/LUCIT-Systems-and-Development), I provide expert support to both private and institutional traders in the area of [data science](https://www.lucit.tech/data-science.html), as well as in the development, operation, and maintenance of [custom automated trading systems](https://www.lucit.tech/trading-bots.html) and [trading tools](https://www.lucit.tech/trading-tools.html).
 
-With the release of the [UNICORN Binance Suite](https://www.lucit.tech/unicorn-binance-suite.html) as open source software, I express my gratitude as well as my passion for the open source culture and am happy to create added value for all participants.
+In addition to my professional work, I'm also an avid supporter of the open source community, and I'm proud to have released the [UNICORN Binance Suite](https://www.lucit.tech/unicorn-binance-suite.html) as open source software. I believe that sharing knowledge and resources is key to building a stronger and more innovative industry for everyone involved.
 
 - [about.me](https://about.me/oliver-zehentleitner)
 - [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
