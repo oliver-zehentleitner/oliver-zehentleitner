@@ -6,11 +6,11 @@ As the founder of [LUCIT](https://github.com/LUCIT-Systems-and-Development), I p
 
 In addition to my professional work, I'm also an avid supporter of the open source community, and I'm proud to have released the [UNICORN Binance Suite](https://www.lucit.tech/unicorn-binance-suite.html) as open source software. I believe that sharing knowledge and resources is key to building a stronger and more innovative industry for everyone involved.
 
-- [Medium](https://medium.com/@oliverzehentleitner)
 - [about.me](https://about.me/oliver-zehentleitner)
 - [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
+- [Medium](https://medium.com/@oliverzehentleitner)
 - [Xing](https://www.xing.com/profile/Oliver_Zehentleitner)
-- [Get personalized trading tools](https://www.lucit.tech/trading-tools.html)
+- [Get custom trading tools](https://www.lucit.tech/trading-tools.html)
 - [Support my work on open source software](https://github.com/sponsors/oliver-zehentleitner)
 
 [![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&theme=nord)](https://github.com/oliver-zehentleitner)
