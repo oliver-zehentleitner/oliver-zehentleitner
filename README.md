@@ -17,8 +17,6 @@ I share my insights and opinions on UBS-related topics on Medium. Follow me on [
 
 [![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&theme=nord)](https://github.com/oliver-zehentleitner)
 
-![](https://komarev.com/ghpvc/?username=oliver-zehentleitner&style=for-the-badge)
-
 <!--
 https://github.com/lowlighter/metrics
 Here are some ideas to get you started:
