@@ -9,9 +9,7 @@ In addition to my professional work, I'm also an avid supporter of the open sour
 I share my insights and opinions on UBS-related topics on Medium. Follow me on [Medium](https://medium.com/@oliverzehentleitner) to stay up-to-date with my latest posts!
 
 - [about.me](https://about.me/oliver-zehentleitner)
-- [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
 - [Medium](https://medium.com/@oliverzehentleitner)
-- [Xing](https://www.xing.com/profile/Oliver_Zehentleitner)
 - [Get custom trading tools](https://www.lucit.tech/trading-tools.html)
 - [Support my work on open source software](https://github.com/sponsors/oliver-zehentleitner)
 
