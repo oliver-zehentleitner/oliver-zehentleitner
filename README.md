@@ -13,7 +13,8 @@ I share my insights and opinions on UBS-related topics on Medium. Follow me on [
 - [Get custom trading tools](https://www.lucit.tech/trading-tools.html)
 - [Support my work on open source software](https://github.com/sponsors/oliver-zehentleitner)
 
-[![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&count_private=true&show_icons=true&theme=react)](https://github.com/oliver-zehentleitner)
+[![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&count_private=true&show_icons=true&theme=react)](https://github.com/oliver-zehentleitner) 
+![Oliver Zehentleitner Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=oliver-zehentleitner&theme=react&hide_border=false)
 
 <!--
 https://github.com/lowlighter/metrics
