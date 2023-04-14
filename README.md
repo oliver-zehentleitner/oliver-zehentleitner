@@ -8,8 +8,6 @@ As the founder of [LUCIT](https://github.com/LUCIT-Systems-and-Development), I p
 
 In addition to my professional work, I'm also an avid supporter of the open source community, and I'm proud to have released the [UNICORN Binance Suite](https://www.lucit.tech/unicorn-binance-suite.html) as open source software. I believe that sharing knowledge and resources is key to building a stronger and more innovative industry for everyone involved.
 
-I share my insights and opinions on UBS and Automated Trading Systems on [Medium](https://medium.com/@oliverzehentleitner). Follow me on [Medium](https://medium.com/@oliverzehentleitner) to stay up-to-date with my latest posts!
-
 - [about.me](https://about.me/oliver-zehentleitner)
 - [Medium](https://medium.com/@oliverzehentleitner)
 - [Get custom trading tools](https://www.lucit.tech/trading-tools.html)
