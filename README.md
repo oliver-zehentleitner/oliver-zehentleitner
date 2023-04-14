@@ -1,6 +1,6 @@
 Hi there!
 
-Looking for personalized trading solutions? I'm here to help! As a Python developer, I specialize in creating customized trading bots using MetaTrader, Interactive Brokers, TradingView, and the UNICORN Binance Suite. Check out [lucit.tech](https://www.lucit.tech) to learn more and start trading smarter today. Also, don't miss my blog on data science, programming, and trading: [medium.lucit.tech](https://medium.lucit.tech)
+Looking for personalized trading solutions? I'm here to help! As a Python developer, I specialize in creating customized trading bots using MetaTrader, Interactive Brokers, TradingView, and the [UNICORN Binance Suite](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite). Check out [lucit.tech](https://www.lucit.tech) to learn more and start trading smarter today. Also, don't miss my blog on data science, programming, and trading: [medium.lucit.tech](https://medium.lucit.tech)
 
 I'm [Oliver Zehentleitner](https://about.me/oliver-zehentleitner), an experienced software developer and IT specialist based in Vienna. With over 25 years of experience in fields such as databases, servers, networks, Linux, and IT security, I have developed a passion for blockchain technology and automated trading systems.
 
