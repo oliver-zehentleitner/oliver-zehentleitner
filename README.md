@@ -2,9 +2,7 @@ Hi there!
 
 Looking for personalized trading solutions? I'm here to help! As a Python developer, I specialize in creating customized trading bots using MetaTrader, Interactive Brokers, TradingView, and the [UNICORN Binance Suite](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-suite). Check out [lucit.tech](https://www.lucit.tech) to learn more and start trading smarter today. Also, don't miss my blog on data science, programming, and trading: [medium.lucit.tech](https://medium.lucit.tech)
 
-I'm [Oliver Zehentleitner](https://about.me/oliver-zehentleitner), an experienced software developer and IT specialist based in Vienna. With over 25 years of experience in fields such as databases, servers, networks, Linux, and IT security, I have developed a passion for blockchain technology and automated trading systems.
-
-As the founder of [LUCIT](https://github.com/LUCIT-Systems-and-Development), I provide expert support to both private and institutional traders in the area of [data science](https://www.lucit.tech/data-science.html), as well as in the development, operation, and maintenance of [custom automated trading systems](https://www.lucit.tech/trading-bots.html) and [trading tools](https://www.lucit.tech/trading-tools.html).
+I'm [Oliver Zehentleitner](https://about.me/oliver-zehentleitner), an experienced software developer and IT specialist based in Vienna. As the founder of [LUCIT](https://github.com/LUCIT-Systems-and-Development), I provide expert support to both private and institutional traders in the area of [data science](https://www.lucit.tech/data-science.html), as well as in the development, operation, and maintenance of [custom automated trading systems](https://www.lucit.tech/trading-bots.html) and [trading tools](https://www.lucit.tech/trading-tools.html).
 
 In addition to my professional work, I'm also an avid supporter of the open source community, and I'm proud to have released the [UNICORN Binance Suite](https://www.lucit.tech/unicorn-binance-suite.html) as open source software. I believe that sharing knowledge and resources is key to building a stronger and more innovative industry for everyone involved.
 
