@@ -8,8 +8,7 @@ In addition to my professional work, I'm also an avid supporter of the open sour
 
 - [about.me](https://about.me/oliver-zehentleitner)
 - [Medium](https://medium.com/@oliverzehentleitner)
-- [Get custom trading tools](https://www.lucit.tech/trading-tools.html)
-- [Support my work on open source software](https://github.com/sponsors/oliver-zehentleitner)
+- [Get custom trading tools](https://www.lucit.tech)
 
 [![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&count_private=true&show_icons=true&theme=react)](https://github.com/oliver-zehentleitner) 
 ![Oliver Zehentleitner Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=oliver-zehentleitner&theme=react&hide_border=false)
