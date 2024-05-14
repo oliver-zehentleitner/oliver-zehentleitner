@@ -12,7 +12,7 @@ In addition to my professional work, I'm also an avid supporter of the open sour
 - [UNICORN Binance Suite](https://www.lucit.tech/unicorn-binance-suite.html)
 
 [![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&count_private=true&show_icons=true&theme=react)](https://github.com/oliver-zehentleitner) 
-![Oliver Zehentleitner Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=oliver-zehentleitner&theme=react&hide_border=false)
+[![Oliver Zehentleitner Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=oliver-zehentleitner&theme=react&hide_border=false)](https://github.com/oliver-zehentleitner) 
 
 <!--
 https://github.com/lowlighter/metrics
