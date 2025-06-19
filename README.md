@@ -2,7 +2,7 @@ Hi there!
 
 With over 25 years of experience in IT architecture, DevSecOps, and software development, I have built complex IT infrastructures, developed automated trading systems, and conducted security audits. My core skills include Python, Kubernetes, Cloud (Azure, AWS), AI, Automation, Linux, IT Security, and Network Architecture.
 
-In addition to my professional work, I'm also an avid supporter of the open source community, and I'm proud to have released the [UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite)) as open source software. I believe that sharing knowledge and resources is key to building a stronger and more innovative industry for everyone involved.
+In addition to my professional work, I'm also an avid supporter of the open source community, and I'm proud to have released the [UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite) as open source software. I believe that sharing knowledge and resources is key to building a stronger and more innovative industry for everyone involved.
 
 - [about.me](https://about.me/oliver-zehentleitner)
 - [Medium](https://medium.com/@oliverzehentleitner)
