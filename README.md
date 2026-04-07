@@ -12,3 +12,4 @@ Currently pioneering AI-driven open source maintenance with [@oliver-zehentleitn
 - 🤖 [AI Agent Account](https://github.com/oliver-zehentleitner-aigent)
 - 📝 [technopathy.club](https://technopathy.club)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
+- 🐦 [X](https://x.com/unicorn_oz)
