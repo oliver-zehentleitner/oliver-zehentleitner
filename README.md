@@ -1,26 +1,14 @@
-Hi there!
+I build systems that work — technically sound, security-first, and actually useful to the people who depend on them.
 
-With over 25 years of experience in IT architecture, DevSecOps, and software development, I have built complex IT infrastructures, developed automated trading systems, and conducted security audits. My core skills include Python, Kubernetes, Cloud (Azure, AWS), AI, Automation, Linux, IT Security, and Network Architecture.
+Creator of the **[UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite)** — 6 open source Python libraries for automated trading systems on Binance. 2.8M+ PyPI downloads, ~980 GitHub stars, 388+ dependent public projects. Built and maintained entirely solo since 2019.
 
-In addition to my professional work, I'm also an avid supporter of the open source community, and I'm proud to have released the [UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite) as open source software. I believe that sharing knowledge and resources is key to building a stronger and more innovative industry for everyone involved.
+Currently pioneering AI-driven open source maintenance with [@oliver-zehentleitner-aigent](https://github.com/oliver-zehentleitner-aigent) — a controlled AI agent that maintains production code. Documenting what works, what fails, and what it means for engineering teams at **[technopathy.club](https://technopathy.club)**.
 
-- [about.me](https://about.me/oliver-zehentleitner)
-- [Medium](https://medium.com/@oliverzehentleitner)
-- [UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
+**Python · DevSecOps · Security · Kubernetes · AI Agents · Vienna 🇦🇹**
 
-[![Oliver Zehentleitner Github Stats](https://github-readme-stats.vercel.app/api?username=oliver-zehentleitner&count_private=true&show_icons=true&theme=react)](https://github.com/oliver-zehentleitner) 
+---
 
-<!--
-https://github.com/lowlighter/metrics
-Here are some ideas to get you started:
-- 🤔 [Commercial Support]() - Need a Python developer or consulting?
-- 📫 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 [UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
+- 🤖 [AI Agent Account](https://github.com/oliver-zehentleitner-aigent)
+- 📝 [technopathy.club](https://technopathy.club)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
