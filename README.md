@@ -10,6 +10,6 @@ Currently pioneering AI-driven open source maintenance with [@oliver-zehentleitn
 
 - 🔧 [UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
 - 🤖 [AI Agent Account](https://github.com/oliver-zehentleitner-aigent)
-- 📝 [technopathy.club](https://technopathy.club)
+- 📝 [blog.technopathy.club](https://blog.technopathy.club)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
 - 🐦 [X](https://x.com/unicorn_oz)
