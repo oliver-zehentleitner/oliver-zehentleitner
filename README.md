@@ -2,6 +2,8 @@ I build systems that work — technically sound, security-first, and actually us
 
 Creator of the **[UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite)** — 6 open source Python libraries for automated trading systems on Binance. 2.8M+ PyPI downloads, ~980 GitHub stars, 388+ dependent public projects. Built and maintained entirely solo since 2019.
 
+Commercial support is available for teams that need direct help with architecture, integration, troubleshooting, scaling, or production use.
+
 Currently pioneering AI-driven open source maintenance with [@oliver-zehentleitner-aigent](https://github.com/oliver-zehentleitner-aigent) — a controlled AI agent that maintains production code. Documenting what works, what fails, and what it means for engineering teams at **[technopathy.club](https://blog.technopathy.club/)**.
 
 **Python · DevSecOps · Security · Kubernetes · AI Agents · Vienna 🇦🇹**
