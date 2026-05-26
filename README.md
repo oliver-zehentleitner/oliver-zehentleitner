@@ -10,8 +10,11 @@ Commercial support is available for teams that need direct help with architectur
 
 ---
 
-- 🔧 [UNICORN Binance Suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
-- 🤖 [AI Agent Account](https://github.com/oliver-zehentleitner-aigent)
-- 📝 [blog.technopathy.club](https://blog.technopathy.club)
+- 🔧 [UNICORN Binance Suite on GitHub](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
+- 🤖 [AI Agent Account on GitHub](https://github.com/oliver-zehentleitner-aigent)
+- 📝 [Technical Blog](https://blog.technopathy.club)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
-- 🐦 [X](https://x.com/unicorn_oz)
+- 🐦 [X / Twitter](https://x.com/unicorn_oz)
+- 🟡 [Binance Square](https://www.binance.com/en/square/profile/oliver-zehentleitner)
+- 👥 [UNICORN Binance Suite Subreddit](https://www.reddit.com/r/UNICORNBinanceSuite/)
+- ▶️ [YouTube Channel](https://www.youtube.com/@OliverZehentleitner)
