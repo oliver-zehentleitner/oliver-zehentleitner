@@ -4,6 +4,8 @@ Creator of the **[UNICORN Binance Suite](https://blog.technopathy.club/page/unic
 
 Currently pioneering AI-driven open source maintenance with [@oliver-zehentleitner-aigent](https://github.com/oliver-zehentleitner-aigent) — a controlled AI agent that maintains production code. Documenting what works, what fails, and what it means for engineering teams at **[technopathy.club](https://blog.technopathy.club/)**.
 
+Active in **[Security Research & Vulnerability Disclosure](https://blog.technopathy.club/series/security-research)** — Auditing infrastructure, uncovering threat campaigns, and publishing independent deep dives. Notable work includes disclosing the **[Binance API IP-Whitelist Bypass](https://blog.technopathy.club/when-ip-whitelisting-isn-t-what-it-seems-a-real-world-case-study-from-the-binance-api)** (*listenKey* vulnerability), tracking an active infostealer infrastructure in the **[Nailproxy & Stealc Campaign](https://blog.technopathy.club/from-a-coffee-in-bed-google-search-to-a-stealc-linked-campaign-the-story-behind-nailproxy-space)**, and dissecting a targeted malware delivery chain disguised as a **[Fake Job Interview](https://blog.technopathy.club/i-had-a-fake-job-interview-it-was-a-malware-delivery-chain)**.
+
 Commercial support is available for teams that need direct help with architecture, integration, troubleshooting, scaling, or production use.
 
 **Python · DevSecOps · Security · Kubernetes · AI Agents · Vienna 🇦🇹**
