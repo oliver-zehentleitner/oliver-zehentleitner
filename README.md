@@ -6,8 +6,6 @@ Currently pioneering AI-driven open source maintenance with [@oliver-zehentleitn
 
 This work also led to **[Keep the Why](https://keepthewhy.com/)** — an open-source initiative and [agent skill](https://github.com/oliver-zehentleitner/keep-the-why) for preserving the reasoning behind software. It captures architectural decisions, rejected alternatives, workarounds, and operational context during development — or helps recover that knowledge later from existing codebases and their maintainers.
 
-> Because “ask Bob” is not documentation.
-
 Active in **[Security Research & Vulnerability Disclosure](https://blog.technopathy.club/series/security-research)** — Auditing infrastructure, uncovering threat campaigns, and publishing independent deep dives. Notable work includes disclosing the **[Binance API IP-Whitelist Bypass](https://blog.technopathy.club/when-ip-whitelisting-isn-t-what-it-seems-a-real-world-case-study-from-the-binance-api)** (*listenKey* vulnerability), tracking an active infostealer infrastructure in the **[Nailproxy & Stealc Campaign](https://blog.technopathy.club/from-a-coffee-in-bed-google-search-to-a-stealc-linked-campaign-the-story-behind-nailproxy-space)**, and dissecting a targeted malware delivery chain disguised as a **[Fake Job Interview](https://blog.technopathy.club/i-had-a-fake-job-interview-it-was-a-malware-delivery-chain)**.
 
 Commercial support is available for teams that need direct help with architecture, integration, troubleshooting, scaling, or production use.
