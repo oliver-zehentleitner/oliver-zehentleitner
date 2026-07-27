@@ -19,7 +19,6 @@ Commercial support is available for teams that need direct help with architectur
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliver-zehentleitner)
 - 🐘 [Mastodon](https://burningboard.net/@oliverzehentleitner)
 - 🐦 [X / Twitter](https://x.com/unicorn_oz)
-- 🟡 [Binance Square](https://www.binance.com/en/square/profile/oliver-zehentleitner)
 
 - 🧑‍💻 [DEV Community](https://dev.to/oliverzehentleitner)
 
