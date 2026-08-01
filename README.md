@@ -1,6 +1,6 @@
 I build systems that work — technically sound, security-first, and actually useful to the people who depend on them.
 
-I’m a collaborative engineer who connects cross-functional teams, bridges technical and human perspectives, mentors others, and makes complex topics easy to understand.
+I’m a collaborative engineer who brings people and cross-functional teams together, translates between technical and human perspectives, mentors others, and makes complex topics easy to understand.
 
 Creator of the **[UNICORN Binance Suite](https://blog.technopathy.club/page/unicorn-binance-suite)** — 6 open source Python libraries for automated trading systems on Binance. 3.3M+ downloads, ~1k GitHub stars, and 390+ dependent public projects. Built and maintained independently since 2019.
 
