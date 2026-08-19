@@ -1,14 +1,14 @@
-I build systems that work — technically sound, security-first, and actually useful to the people who depend on them.
+I build systems that work - technically sound, security-first, and actually useful to the people who depend on them.
 
 I’m a collaborative engineer who brings people and cross-functional teams together, translates between technical and human perspectives, mentors others, and makes complex topics easy to understand.
 
-Creator of the **[UNICORN Binance Suite](https://blog.technopathy.club/page/unicorn-binance-suite)** — 6 open source Python libraries for automated trading systems on Binance. 3.3M+ downloads, ~1k GitHub stars, and 390+ dependent public projects. Built and maintained independently since 2019.
+Creator of the **[UNICORN Binance Suite](https://blog.technopathy.club/page/unicorn-binance-suite)** - 6 open source Python libraries for automated trading systems on Binance. 3.3M+ downloads, ~1k GitHub stars, and 390+ dependent public projects. Built and maintained independently since 2019.
 
-Currently pioneering AI-driven open source maintenance with [@oliver-zehentleitner-aigent](https://github.com/oliver-zehentleitner-aigent) — a controlled AI agent that maintains production code. Documenting what works, what fails, and what it means for engineering teams at **[technopathy.club](https://blog.technopathy.club/)**.
+Currently pioneering AI-driven open source maintenance with [@oliver-zehentleitner-aigent](https://github.com/oliver-zehentleitner-aigent) - a controlled AI agent that maintains production code. Documenting what works, what fails, and what it means for engineering teams at **[technopathy.club](https://blog.technopathy.club/)**.
 
-This work also led to **[Keep the Why](https://keepthewhy.com/)** — an open-source initiative and [agent skill](https://github.com/oliver-zehentleitner/keep-the-why) for preserving the reasoning behind software. It captures architectural decisions, rejected alternatives, workarounds, and operational context during development — or helps recover that knowledge later from existing codebases and their maintainers.
+This work also led to **[Keep the Why](https://keepthewhy.com/)** - an open-source initiative and [agent skill](https://github.com/oliver-zehentleitner/keep-the-why) for preserving the reasoning behind software. It captures architectural decisions, rejected alternatives, workarounds, and operational context during development - or helps recover that knowledge later from existing codebases and their maintainers.
 
-Active in **[Security Research & Vulnerability Disclosure](https://blog.technopathy.club/series/security-research)** — Auditing infrastructure, uncovering threat campaigns, and publishing independent deep dives. Notable work includes disclosing the **[Binance API IP-Whitelist Bypass](https://blog.technopathy.club/when-ip-whitelisting-isn-t-what-it-seems-a-real-world-case-study-from-the-binance-api)** (*listenKey* vulnerability), tracking an active infostealer infrastructure in the **[Nailproxy & Stealc Campaign](https://blog.technopathy.club/from-a-coffee-in-bed-google-search-to-a-stealc-linked-campaign-the-story-behind-nailproxy-space)**, and dissecting a targeted malware delivery chain disguised as a **[Fake Job Interview](https://blog.technopathy.club/i-had-a-fake-job-interview-it-was-a-malware-delivery-chain)**.
+Active in **[Security Research & Vulnerability Disclosure](https://blog.technopathy.club/series/security-research)** - Auditing infrastructure, uncovering threat campaigns, and publishing independent deep dives. Notable work includes disclosing the **[Binance API IP-Whitelist Bypass](https://blog.technopathy.club/when-ip-whitelisting-isn-t-what-it-seems-a-real-world-case-study-from-the-binance-api)** (*listenKey* vulnerability), tracking an active infostealer infrastructure in the **[Nailproxy & Stealc Campaign](https://blog.technopathy.club/from-a-coffee-in-bed-google-search-to-a-stealc-linked-campaign-the-story-behind-nailproxy-space)**, and dissecting a targeted malware delivery chain disguised as a **[Fake Job Interview](https://blog.technopathy.club/i-had-a-fake-job-interview-it-was-a-malware-delivery-chain)**.
 
 Commercial support is available for teams that need direct help with architecture, integration, troubleshooting, scaling, or production use.
 
@@ -24,7 +24,7 @@ Commercial support is available for teams that need direct help with architectur
 
 - 🧑‍💻 [DEV Community](https://dev.to/oliverzehentleitner)
 
-- 🧠 [Keep the Why](https://keepthewhy.com/) — Preserve the reasoning behind your code
+- 🧠 [Keep the Why](https://keepthewhy.com/) - Preserve the reasoning behind your code
 - 📦 [Keep the Why on GitHub](https://github.com/oliver-zehentleitner/keep-the-why)
  
 - 🔧 [UNICORN Binance Suite on GitHub](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
