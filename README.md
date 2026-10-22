@@ -16,7 +16,10 @@ Active in **[Security Research & Vulnerability Disclosure](https://blog.technopa
 
 A selection of focused projects, technical experiments and case studies where I explore new architectures, AI workflows and engineering approaches.
 
-### [lasteverLM](https://github.com/oliver-zehentleitner/lasteverLM)
+### lasteverLM
+
+[Repository](https://github.com/oliver-zehentleitner/lasteverLM) ·
+[Live Docs](https://oliver-zehentleitner.github.io/lasteverLM/)
 
 A production-oriented NotebookLM-style platform built as a four-day engineering challenge.
 
@@ -24,7 +27,9 @@ PDFs, text, web pages, structured data, images and audio go in; cited answers, r
 
 The project was also an experiment in agentic software engineering: [seven parallel coding-agent sessions](https://blog.technopathy.club/seven-coding-agents-one-chat-window), automated review and CI/CD, with [architectural decisions](https://oliver-zehentleitner.github.io/lasteverLM/keep-the-why-dashboard/) captured through Keep the Why.
 
-### [A1 AI Expert Case Study](https://github.com/oliver-zehentleitner/a1-ai-expert-case-study)
+### A1 AI Expert Case Study
+
+[Repository](https://github.com/oliver-zehentleitner/a1-ai-expert-case-study)
 
 An AI/ML case study created during an application process for an AI Expert role.
 
