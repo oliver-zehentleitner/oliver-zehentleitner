@@ -12,7 +12,25 @@ This work also led me to [Repo-native Project Memory](https://oliver-zehentleitn
 
 Active in **[Security Research & Vulnerability Disclosure](https://blog.technopathy.club/series/security-research)** - Auditing infrastructure, uncovering threat campaigns, and publishing independent deep dives. Notable work includes disclosing the **[Binance API IP-Whitelist Bypass](https://blog.technopathy.club/when-ip-whitelisting-isn-t-what-it-seems-a-real-world-case-study-from-the-binance-api)** (*listenKey* vulnerability), tracking an active infostealer infrastructure in the **[Nailproxy & Stealc Campaign](https://blog.technopathy.club/from-a-coffee-in-bed-google-search-to-a-stealc-linked-campaign-the-story-behind-nailproxy-space)**, and dissecting a targeted malware delivery chain disguised as a **[Fake Job Interview](https://blog.technopathy.club/i-had-a-fake-job-interview-it-was-a-malware-delivery-chain)**.
 
-Commercial support is available for teams that need direct help with architecture, integration, troubleshooting, scaling, or production use.
+## Selected Projects & Experiments
+
+A selection of focused projects, technical experiments and case studies where I explore new architectures, AI workflows and engineering approaches.
+
+### [lasteverLM](https://github.com/oliver-zehentleitner/lasteverLM)
+
+A production-oriented NotebookLM-style platform built as a four-day engineering challenge.
+
+PDFs, text, web pages, structured data, images and audio go in; cited answers, reports, quizzes, tables, charts, mind maps, infographics and spoken overviews come out. The system includes source-grounded RAG, multi-level claim verification with independent LLM judges, cost accounting, authentication, Kubernetes deployment, monitoring and self-healing infrastructure.
+
+The project was also an experiment in agentic software engineering: seven parallel coding-agent sessions, automated review and CI/CD, with [architectural decisions](https://oliver-zehentleitner.github.io/lasteverLM/keep-the-why-dashboard/) captured through Keep the Why.
+
+### [A1 AI Expert Case Study](https://github.com/oliver-zehentleitner/a1-ai-expert-case-study)
+
+An AI/ML case study created during an application process for an AI Expert role.
+
+The project analyzes the SMS Spam Collection dataset using classical machine learning and semantic AI approaches: TF-IDF classification, evaluation with precision/recall/F1, and semantic clustering using embeddings. It supports local and cloud embedding providers and is implemented as a structured Python project with CLI, tests, documentation and reproducible evaluation.
+
+---
 
 **Python · DevSecOps · Security · Kubernetes · AI Agents · Vienna 🇦🇹**
 
