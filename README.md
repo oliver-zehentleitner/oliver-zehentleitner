@@ -22,7 +22,7 @@ A production-oriented NotebookLM-style platform built as a four-day engineering 
 
 PDFs, text, web pages, structured data, images and audio go in; cited answers, reports, quizzes, tables, charts, mind maps, infographics and spoken overviews come out. The system includes source-grounded RAG, multi-level claim verification with independent LLM judges, cost accounting, authentication, Kubernetes deployment, monitoring and self-healing infrastructure.
 
-The project was also an experiment in agentic software engineering: seven parallel coding-agent sessions, automated review and CI/CD, with [architectural decisions](https://oliver-zehentleitner.github.io/lasteverLM/keep-the-why-dashboard/) captured through Keep the Why.
+The project was also an experiment in agentic software engineering: [seven parallel coding-agent sessions](https://blog.technopathy.club/seven-coding-agents-one-chat-window), automated review and CI/CD, with [architectural decisions](https://oliver-zehentleitner.github.io/lasteverLM/keep-the-why-dashboard/) captured through Keep the Why.
 
 ### [A1 AI Expert Case Study](https://github.com/oliver-zehentleitner/a1-ai-expert-case-study)
 
