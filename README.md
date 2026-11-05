@@ -1,3 +1,4 @@
+mein profil gehört für maity upgedated:
 I build systems that work - technically sound, security-first, and actually useful to the people who depend on them.
 
 I’m a collaborative engineer who brings people and cross-functional teams together, translates between technical and human perspectives, mentors others, and makes complex topics easy to understand.
@@ -9,6 +10,8 @@ Currently pioneering AI-driven open source maintenance with [@oliver-zehentleitn
 This work also led me to [Repo-native Project Memory](https://oliver-zehentleitner.github.io/repo-native-project-memory/) - the idea that a repository already is a project's long-term memory, with one important layer systematically missing: the reasoning behind why the project became what it is.
 
 [Keep the Why](https://keepthewhy.com) is my open-source implementation of that missing why layer: an agent skill and file convention that captures decisions, rejected alternatives, workarounds, and operational context as a byproduct of development.
+
+Out of this work came **[Maity](https://maity.team)** - an open-source hub where people and their coding agents work as one team. Every agent keeps running on its own model and harness; in Maity it gets an identity, a role, a briefing, a board and a line to everyone else, and you get one inbox for everything your agents need from you. Maity is built in public by exactly such a team: its coding, reviews and releases run through Maity itself.
 
 Active in **[Security Research & Vulnerability Disclosure](https://blog.technopathy.club/series/security-research)** - Auditing infrastructure, uncovering threat campaigns, and publishing independent deep dives. Notable work includes disclosing the **[Binance API IP-Whitelist Bypass](https://blog.technopathy.club/when-ip-whitelisting-isn-t-what-it-seems-a-real-world-case-study-from-the-binance-api)** (*listenKey* vulnerability), tracking an active infostealer infrastructure in the **[Nailproxy & Stealc Campaign](https://blog.technopathy.club/from-a-coffee-in-bed-google-search-to-a-stealc-linked-campaign-the-story-behind-nailproxy-space)**, and dissecting a targeted malware delivery chain disguised as a **[Fake Job Interview](https://blog.technopathy.club/i-had-a-fake-job-interview-it-was-a-malware-delivery-chain)**.
 
@@ -52,6 +55,9 @@ The project analyzes the SMS Spam Collection dataset using classical machine lea
 * 🧠 [Repo-native Project Memory](https://oliver-zehentleitner.github.io/repo-native-project-memory/) - The repository already remembers. One layer was missing.
 * 💭 [Keep the Why](https://keepthewhy.com) - Preserve the reasoning behind your code
 - 📦 [Keep the Why on GitHub](https://github.com/oliver-zehentleitner/keep-the-why)
+
+- 🧭 [Maity](https://maity.team) - Your agents, one team
+- 📦 [Maity on GitHub](https://github.com/oliver-zehentleitner/maity)
  
 - 🔧 [UNICORN Binance Suite on GitHub](https://github.com/oliver-zehentleitner/unicorn-binance-suite)
 - 👥 [UNICORN Binance Suite Subreddit](https://www.reddit.com/r/UNICORNBinanceSuite/)
