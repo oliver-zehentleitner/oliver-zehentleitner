@@ -1,4 +1,3 @@
-mein profil gehört für maity upgedated:
 I build systems that work - technically sound, security-first, and actually useful to the people who depend on them.
 
 I’m a collaborative engineer who brings people and cross-functional teams together, translates between technical and human perspectives, mentors others, and makes complex topics easy to understand.
